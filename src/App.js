@@ -23,6 +23,8 @@ class App extends Component {
         </header>
         <section>
           {/* <!--need a link (that looks like a button?) : Register as an Attendee--> */}
+          {/* <!--need a link (that looks like a button?) : Register as an Attendee--> */}
+
           {/* <a
           className="App-link"
           href="https://reactjs.org"
