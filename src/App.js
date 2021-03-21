@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Route, Switch, withRouter } from "react-router-dom";
+// import { Route, Switch, withRouter } from "react-router-dom";
 import logo from "./logo.svg";
 import "./App.css";
 
@@ -26,7 +26,7 @@ class App extends Component {
 
           {/* <!--need a route: /register/reginfo/ -- make this have logic for any kind of attendee and be dynamic, but based on what? localStorage probably --> */}
           <a className="whatever" href="/register/reginfo/">
-            Register as an Attendee
+            Register as an Attendee?
           </a>
         </section>
         {/* <!--make a global registration footer include--> */}
