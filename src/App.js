@@ -23,17 +23,11 @@ class App extends Component {
         </header>
         <section>
           {/* <!--need a link (that looks like a button?) : Register as an Attendee--> */}
-          {/* <!--need a link (that looks like a button?) : Register as an Attendee--> */}
 
-          {/* <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-
-        </a> */}
           {/* <!--need a route: /register/reginfo/ -- make this have logic for any kind of attendee and be dynamic, but based on what? localStorage probably --> */}
+          <a className="whatever" href="/register/reginfo/">
+            Register as an Attendee
+          </a>
         </section>
         {/* <!--make a global registration footer include--> */}
       </div>
