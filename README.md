@@ -3,7 +3,7 @@
 
 Initial scope is to register an attendee for an event.
 
-Link to project: 
+Link to project: [EventRegReact Demo](https://eventregreact.herokuapp.com/)
 
 Future features may include:
 * Multi-page registration
