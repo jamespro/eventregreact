@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
 }
 
 .App-logo {
@@ -9,11 +8,12 @@
 
 @media (prefers-reduced-motion: no-preference) {
   /* .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  } */
+        animation: App-logo-spin infinite 20s linear;
+    } */
 }
 
 .App-header {
+  text-align: center;
   background-color: #ffffff;
   min-height: 5vh;
   display: flex;
@@ -35,4 +35,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#admin,
+#registration {
+  width: 50%;
+  float: left;
 }
