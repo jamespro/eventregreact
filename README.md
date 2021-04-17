@@ -25,7 +25,7 @@ Future features may include:
 * JavaScript
 * Node.js
 * Express
-* React
+* React.js
 <!-- 
 * MongoDB
 * Mongoose
