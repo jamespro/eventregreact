@@ -2,6 +2,9 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
+    "eslint.workingDirectories": [
+        "./{PATH_TO_CLIENT}"
+    ]
     //"eslint.alwaysShowStatus": true,
     // "files.autoSave": "onFocusChange"
 }
