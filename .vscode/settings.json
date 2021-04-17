@@ -3,7 +3,7 @@
         "source.fixAll.eslint": true
     },
     "eslint.workingDirectories": [
-        "./{PATH_TO_CLIENT}"
+        {"mode":"auto"}
     ]
     //"eslint.alwaysShowStatus": true,
     // "files.autoSave": "onFocusChange"
