@@ -2,6 +2,6 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
-    "eslint.alwaysShowStatus": true,
-    "files.autoSave": "onFocusChange"
+    //"eslint.alwaysShowStatus": true,
+    // "files.autoSave": "onFocusChange"
 }
