@@ -5,6 +5,8 @@ Initial scope is to register an attendee for an event.
 
 Link to project: [EventRegReact Demo](https://eventregreact.herokuapp.com/)
 
+![Event Reg](https://raw.githubusercontent.com/jamespro/eventregreact/main/public/banner.png)
+
 Future features may include:
 * Multi-page registration
   * Demos
