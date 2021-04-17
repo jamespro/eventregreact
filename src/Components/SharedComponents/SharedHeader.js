@@ -3,16 +3,9 @@ import React from "react";
 
 const SharedHeader = () => {
   return (
-    <SharedHeader>
-      some text
-      {/* <header className="App-header">
-        <a className="home-link" href="/">
-          <img src={logo} className="App-logo" alt="logo" />
-        </a>
-        <p>Welcome to Event Registration</p>
-      </header>
-      ; */}
-    </SharedHeader>
+    <div>
+      <h1>some text</h1>
+    </div>
   );
 };
 

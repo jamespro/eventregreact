@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 // import { Route, Switch, withRouter } from "react-router-dom";
-// import SharedHeader from "./Components/SharedComponents/SharedHeader";
+import SharedHeader from "./Components/SharedComponents/SharedHeader";
 // import logo from "./logo.svg";
 import "./App.css";
 
@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        {/* <SharedHeader /> */}
+        <SharedHeader />
         {/* <!--make a set of registration components--> */}
 
         {/* <!--make a global registration header include--> */}
