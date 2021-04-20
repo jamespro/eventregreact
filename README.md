@@ -10,6 +10,7 @@ Link to project: [EventRegReact Demo](https://eventregreact.herokuapp.com/)
 Future features may include:
 * Multi-page registration
   * Demos
+  * Conditional Demos
   * Items
   * Sessions
   * Visa
