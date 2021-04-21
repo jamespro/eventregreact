@@ -21,6 +21,7 @@ Future features may include:
 * Exhibitor booth staff registration
 * Event admin
   * Create, View, Edit, Delete
+* Reporting with graphic packages
 
 ## Tech used
 * JavaScript
