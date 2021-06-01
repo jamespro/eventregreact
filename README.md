@@ -53,3 +53,8 @@ Future features may include:
 
 * Decision must be made whether Event Admin belongs in the same repo/same set of code as User Reg.
 * Similarly, should Exhibitor admin be separate?
+
+## TODO
+
+- This repo becomes the page-by-page individual forms demo
+
