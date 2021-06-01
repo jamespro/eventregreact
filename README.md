@@ -57,4 +57,6 @@ Future features may include:
 ## TODO
 
 - This repo becomes the page-by-page individual forms demo
+- [ ] Update with connection to eventregi api
+- [ ] 
 
