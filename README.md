@@ -20,6 +20,7 @@ Future features may include:
 * Upgrade / Add items
 * Exhibitor booth staff registration
 * Event admin
+  * Use "react-admin" and make this repo the home of the event admin?
   * Create, View, Edit, Delete
 * Reporting with graphic packages
 
